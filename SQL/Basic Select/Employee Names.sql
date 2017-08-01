@@ -1,1 +1,3 @@
-SELECT name FROM Employee ORDER BY name ASC
+SELECT name
+FROM Employee
+ORDER BY  name ASC
