@@ -1,3 +1,6 @@
+// Score: 4.29 
+// Failed TestCase: #1, #3, #4, #5, #6, #7
+// Solved TestCase: #0, #2
 import java.io.*;
 import java.util.*;
 
