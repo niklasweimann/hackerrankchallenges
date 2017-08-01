@@ -3,8 +3,7 @@ Bitte nutze dieses Reposetory nicht als Lösung, sondern als Inspiration oder um
 
 Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn dies einmal nicht der Fall war, habe ich die Punktzahl, die mit dem Code erreicht wurde in die erste Zeile der Datei geschrieben und zum Teil auch mehrere Varianten erstellt.
 
----
-## Hier eine Liste aller Challanges, die DU in diesem Reposetory finden könnt
+## Hier eine Liste aller Challanges
 (Stand 1. August 2017)
 * 30 Days of Code 
     * Day 0 - Hello, World {Java}
