@@ -17,6 +17,8 @@ Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn
     * Day 8 - Dictionaries and Maps {Java}
     * Day 9 - Recursion {Java}
     * Day 10 - Binary Numbers {Java}
+    * Day 11 - 2D Arrays
+    * Day 12 - Inheritance {Java}
 * Algorithms
     * Warmup
         * A very big Sum {C#}
