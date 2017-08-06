@@ -1,5 +1,5 @@
 # Alle Hackerrank Challenges
-Bitte nutze dieses Reposetory nicht als Lösung, sondern als Inspiration oder um deine Lösungen zu vergleichen.
+Bitte nutze dieses Repository nicht als Lösung, sondern als Inspiration oder um deine Lösungen zu vergleichen.
 
 Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn dies einmal nicht der Fall war, habe ich die Punktzahl, die mit dem Code erreicht wurde in die erste Zeile der Datei geschrieben und zum Teil auch mehrere Varianten erstellt.
 
