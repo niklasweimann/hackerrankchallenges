@@ -19,6 +19,10 @@ Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn
     * Day 10 - Binary Numbers {Java}
     * Day 11 - 2D Arrays {Java}
     * Day 12 - Inheritance {Java}
+    * Day 13 - Abstract Classes {Java}
+    * Day 14 - Scope {Java}
+    * Day 15 - Linked List {Java}
+    * Day 16 - Exceptions - String to Integer {Java}
 * Algorithms
     * Warmup
         * A very big Sum {C#}
