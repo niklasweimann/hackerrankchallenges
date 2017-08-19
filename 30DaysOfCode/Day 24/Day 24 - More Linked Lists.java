@@ -12,16 +12,28 @@ class Node{
 class Solution
 {
     public static Node removeDuplicates(Node head) {
-        Node mHead = head;
-        
-        while (mHead != null && mHead.next != null) {
-            while (mHead.next != null && mHead.data == mHead.next.data){
-                mHead.next = mHead.next.next;
-            }
-            mHead = mHead.next;
-        }
+        //Write your code here
+       Node currentNode = head;
+       while(currentNode!=null && currentNode.next!=null)
+           {
+           Node node = currentNode;
+           while(node.next!=null)
+               {
+               if(node.next.data==currentNode.data)
+                   {
+                   Node next = node.next.next;
+                   Node temp= node.next;
+                   node.next=next;
+                   temp=null;
 
-        return mHead;
+               }
+               else{
+               node=node.next;
+               }
+           }
+           currentNode=currentNode.next;
+       }
+       return head;
     }
      public static  Node insert(Node head,int data)
      {
