@@ -32,6 +32,7 @@ Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn
         * Simple Array Sum {C#}
         * Solve me first {C#}
         * Staircase {C#}
+        * Mini Max Sum {C#}
 * Databases
     * Relation Algebra
         * Beasics of Sets and Relations #1 {txt}
