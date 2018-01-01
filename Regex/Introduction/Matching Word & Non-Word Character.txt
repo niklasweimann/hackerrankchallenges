@@ -1,0 +1,2 @@
+Pyhton: \w\w\w\W\w\w\w\w\w\w\w\w\w\w\W\w\w\w
+Java: \\w\\w\\w\\W\\w\\w\\w\\w\\w\\w\\w\\w\\w\\w\\W\\w\\w\\w
