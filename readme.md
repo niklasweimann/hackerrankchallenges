@@ -79,7 +79,7 @@ Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn
         * Matching Specific String [txt]
         * Matching Start & End [txt]
         * Matching Whitespace & Non-Whitespace Character [txt]
-        * Matching Word & Non-Word Character
+        * Matching Word & Non-Word Character [txt]
 * SQL
     * Advanced Select
         * Binary Tree Nodes [MySQL]
