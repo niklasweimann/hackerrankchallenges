@@ -63,6 +63,23 @@ Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn
         * Relational Algebra - 4 [txt]
         * Relations - 1 [txt]
         * Relations - 2 [txt]
+* Regex
+    * Applications
+        * Saying Hi [Java]
+    * Assertions
+    * Backreferences
+    * Character Class
+        * Excluding Specific Characters [txt]
+        * Matching Character Ranges [txt]
+        * Matching Specific Characters [txt]
+    * Grouping and Capturing
+    * Introduction
+        * Matching Anything But a Newline [txt]
+        * Matching Digits & Non-Digit Characters [txt]
+        * Matching Specific String [txt]
+        * Matching Start & End [txt]
+        * Matching Whitespace & Non-Whitespace Character [txt]
+        * Matching Word & Non-Word Character
 * SQL
     * Advanced Select
         * Binary Tree Nodes [MySQL]
