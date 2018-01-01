@@ -44,6 +44,7 @@ Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn
         * Staircase [C#]
         * Mini Max Sum [C#]
         * Birthday Cake Candles [C#, Java]
+        * Time Conversion [C#]
 * Databases
     * Relation Algebra
         * Beasics of Sets and Relations #1 [txt]
