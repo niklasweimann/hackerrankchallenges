@@ -31,6 +31,9 @@ Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn
     * Day 22 - Binary Search Trees [Java]
     * Day 23 - BST Level-Order Traversal [Java]
     * Day 24 - More Linked Lists [Java]
+    * Day 25 - Running Time and Complexity [Java]
+    * Day 26 - Nested Logic [Java]
+    * Day 27 - Testing [Java]
     * Day 28 - RegEx, Patterns, and Intro to Databases [Java]
     * Day 30 - bitwise and [Java]
 * Algorithms
