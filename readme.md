@@ -43,6 +43,7 @@ Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn
         * Solve me first [C#]
         * Staircase [C#]
         * Mini Max Sum [C#]
+        * Birthday Cake Candles [C#, Java]
 * Databases
     * Relation Algebra
         * Beasics of Sets and Relations #1 [txt]
