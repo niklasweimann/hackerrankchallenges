@@ -6,7 +6,7 @@ Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn
 # Hier eine Liste aller Challanges
 (Stand 02. Februar 2018)
 ## 30 Days of Code 
-* Day 0 - Hello, World [Java]
+* Day 0 - Hello, World [Java](30DaysOfCode/Day 00/Day 0 - Hello, World.java)
 * Day 1 - Data Types [Java]
 * Day 2 - Operators [Java]
 * Day 3 - Intro to Conditional Statements [Java]
