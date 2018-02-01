@@ -48,6 +48,13 @@ Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn
         * Mini Max Sum [C#]
         * Birthday Cake Candles [C#, Java]
         * Time Conversion [C#]
+* C++
+    * Introduction
+        * C Tutorial Basic Data Types [C++]
+        * C Tutorial Conditional if else [C++]
+        * C Tutorial for lookp [C++]
+        * Input and Output [C++]
+        * Say Hello, World! With c++ [C++]
 * Databases
     * Relation Algebra
         * Beasics of Sets and Relations #1 [txt]
