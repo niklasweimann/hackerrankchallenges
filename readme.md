@@ -55,6 +55,10 @@ Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn
     * C Tutorial for lookp [C++]
     * Input and Output [C++]
     * Say Hello, World! With c++ [C++]
+    * Functions [C++]
+    * Pointer [C++]
+    * Array Introduction [C++]
+    * Variable Sized Arrays[C++]
 # Databases
 * Relation Algebra
     * Beasics of Sets and Relations #1 [txt]
