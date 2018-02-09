@@ -14,7 +14,7 @@ int main()
     int i = 0;
     while (cin >> A[i++])
         ;
-    while (cout << A[--N] << ' ' and N)
+    while (cout << A[--N] << ' ' << N)
         ;
     delete[] A;
     return 0;
