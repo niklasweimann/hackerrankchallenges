@@ -59,7 +59,7 @@ Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn
     * Pointer [C++]
     * Array Introduction [C++]
     * Variable Sized Arrays[C++]
-# Databases
+## Databases
 * Relation Algebra
     * Beasics of Sets and Relations #1 [txt]
     * Beasics of Sets and Relations #2 [txt]
@@ -74,6 +74,18 @@ Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn
     * Relational Algebra - 4 [txt]
     * Relations - 1 [txt]
     * Relations - 2 [txt]
+## Linux Shell
+* Bash
+    * A Personalized Echo [sh]
+    * Arithmetic Operations [sh]
+    * Comparing Numbers [sh]
+    * Compute the average [sh]
+    * Getting started with conditionals [sh]
+    * Let's Echo [sh]
+    * Looping and Skipping [sh]
+    * Looping with Numbers [sh]
+    * More on Conditionals [sh]
+    * The World of Numbers [sh]
 ## Regex
 * Applications
     * Saying Hi [Java]
