@@ -1,6 +1,11 @@
 {
     "files.associations": {
-        "numeric": "cpp"
+        "numeric": "cpp",
+        "xstring": "cpp",
+        "iosfwd": "cpp",
+        "xlocale": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp"
     },
     "C_Cpp.errorSquiggles": "Enabled"
 }
