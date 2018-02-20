@@ -94,6 +94,11 @@ Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn
     * Cut #5 [sh]
     * Cut #6 [sh]
     * Cut #7 [sh]
+## Python
+* Introduction
+    * Say Hello, World with Python [py]
+    * Python If-Else [py]
+    * Arithmetic Operators [py]
 ## Regex
 * Applications
     * Saying Hi [Java]

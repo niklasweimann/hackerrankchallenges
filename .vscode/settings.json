@@ -7,5 +7,8 @@
         "ostream": "cpp",
         "sstream": "cpp"
     },
-    "C_Cpp.errorSquiggles": "Enabled"
+    "C_Cpp.errorSquiggles": "Enabled",
+    "python.formatting.provider": "yapf",
+    "python.linting.enabled": false,
+    "python.pythonPath": "C:\\Users\\nikwe\\AppData\\Local\\Programs\\Python\\Python36-32\\python.exe"
 }
