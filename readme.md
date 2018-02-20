@@ -4,7 +4,7 @@ Bitte nutze dieses Repository nicht als Lösung, sondern als Inspiration oder um
 Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn dies einmal nicht der Fall war, habe ich die Punktzahl, die mit dem Code erreicht wurde in die erste Zeile der Datei geschrieben und zum Teil auch mehrere Varianten erstellt.
 
 # Hier eine Liste aller Challanges
-(Stand 02. Februar 2018)
+(Stand 20. Februar 2018)
 ## 30 Days of Code 
 * Day 0 - Hello, World [Java]
 * Day 1 - Data Types [Java]
@@ -86,6 +86,14 @@ Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn
     * Looping with Numbers [sh]
     * More on Conditionals [sh]
     * The World of Numbers [sh]
+* Text Processing
+    * Cut #1 [sh]
+    * Cut #2 [sh]
+    * Cut #3 [sh]
+    * Cut #4 [sh]
+    * Cut #5 [sh]
+    * Cut #6 [sh]
+    * Cut #7 [sh]
 ## Regex
 * Applications
     * Saying Hi [Java]
