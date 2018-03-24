@@ -7,16 +7,16 @@ vector<int> parseInts(string str)
 {
     // Complete this function
     stringstream ss(str);
-    int count = countSubstring(str, ",");
-    vector<int> intArr(0);
-    for (int i = 0; i < count + 1; i++)
+    char ch;
+    int curr;
+    vector<int> res;
+
+    while (!ss.eof())
     {
-        int j;
-        char ch;
-        ss >> j >> ch;
-        intArr.insert(intArr.end(), j);
+        ss >> curr >> ch;
+        res.push_back(curr);
     }
-    return intArr;
+    return res;
 }
 
 int main()
