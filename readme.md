@@ -128,7 +128,15 @@ Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn
 * Applications
     * Saying Hi [Java]
 * Assertions
+    * Negative Lookahead [py]
+    * Negative Lookbehind [py]
+    * Positive Lookahead [py]
+    * Positive Lookbehind [py]
 * Backreferences
+    * Backreferences To Failed Groups [py]
+    * Branch Rest Groups [php]
+    * Forward References [java]
+    * Matching Same Text Again & Again [py]
 * Character Class
     * Excluding Specific Characters [java]
     * Matching Character Ranges [java]
