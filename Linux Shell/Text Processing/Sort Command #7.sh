@@ -1,0 +1,1 @@
+sort --numeric-sort --reverse --key=2 --field-separator='|'

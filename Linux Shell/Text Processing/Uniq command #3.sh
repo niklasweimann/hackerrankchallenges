@@ -1,0 +1,1 @@
+uniq --count --ignore-case | awk '{ gsub(/^[ \t]+|[ \t]+$/, ""); print }'
