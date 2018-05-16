@@ -1,2 +1,0 @@
-Java: \\S\\S\\s\\S\\S\\s\\S\\S
-Python: \S\S\s\S\S\s\S\S

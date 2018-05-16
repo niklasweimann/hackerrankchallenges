@@ -1,2 +1,0 @@
-Java: ^\\d\\w\\w\\w\\w.$
-Python: ^\d\w\w\w\w.$

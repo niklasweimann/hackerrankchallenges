@@ -130,23 +130,23 @@ Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn
 * Assertions
 * Backreferences
 * Character Class
-    * Excluding Specific Characters [txt]
-    * Matching Character Ranges [txt]
-    * Matching Specific Characters [txt]
+    * Excluding Specific Characters [java]
+    * Matching Character Ranges [java]
+    * Matching Specific Characters [py]
 * Grouping and Capturing
 * Introduction
-    * Matching Anything But a Newline [txt]
-    * Matching Digits & Non-Digit Characters [txt]
-    * Matching Specific String [txt]
-    * Matching Start & End [txt]
-    * Matching Whitespace & Non-Whitespace Character [txt]
-    * Matching Word & Non-Word Character [txt]
+    * Matching Anything But a Newline [py]
+    * Matching Digits & Non-Digit Characters [py]
+    * Matching Specific String [py]
+    * Matching Start & End [py]
+    * Matching Whitespace & Non-Whitespace Character [py]
+    * Matching Word & Non-Word Character [py]
 * Repetitions
-    * Matching {x, y} Repetitions [txt]
-    * Matching {x} Repetitions [txt]
-    * Matching Ending Items [txt]
-    * Matching One Or More Repetitions [txt]
-    * Matching Zero Or More Repetitions [txt]
+    * Matching {x, y} Repetitions [py]
+    * Matching {x} Repetitions [py]
+    * Matching Ending Items [py]
+    * Matching One Or More Repetitions [py]
+    * Matching Zero Or More Repetitions [py]
 ## SQL
 * Advanced Select
     * Binary Tree Nodes [MySQL]
