@@ -141,6 +141,12 @@ Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn
     * Matching Start & End [txt]
     * Matching Whitespace & Non-Whitespace Character [txt]
     * Matching Word & Non-Word Character [txt]
+* Repetitions
+    * Matching {x, y} Repetitions [txt]
+    * Matching {x} Repetitions [txt]
+    * Matching Ending Items [txt]
+    * Matching One Or More Repetitions [txt]
+    * Matching Zero Or More Repetitions [txt]
 ## SQL
 * Advanced Select
     * Binary Tree Nodes [MySQL]
