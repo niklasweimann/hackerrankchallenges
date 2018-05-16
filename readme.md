@@ -134,6 +134,9 @@ Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn
     * Matching Character Ranges [java]
     * Matching Specific Characters [py]
 * Grouping and Capturing
+    * Alternative Matching [py]
+    * Capturing & Non-Capturing Groups [py]
+    * Matching Word Boundaries [py]
 * Introduction
     * Matching Anything But a Newline [py]
     * Matching Digits & Non-Digit Characters [py]
