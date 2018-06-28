@@ -36,6 +36,30 @@ Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn
 * Day 27 - Testing [Java]
 * Day 28 - RegEx, Patterns, and Intro to Databases [Java]
 * Day 30 - bitwise and [Java]
+## 10 Days of Javascript
+* Day 00
+    * Day 00 - DataTypes [js]
+    * Day 00 - Hello World! [js]
+* Day 01
+    * Day 01 - Arithmetic Operators [js]
+    * Day 01 - Functions [js]
+    * Day 01 - Let and Const [js]
+* Day 02
+    * Day 02 - Conditional Statements If-Else [js]
+    * Day 02 - Conditional Statements Switch [js]
+    * Day 02 - Loops [js]
+* Day 03
+    * Day 03 - Arrays [js]
+    * Day 03 - Try Catch and Finally [js]
+    * Day 03 - Throw [js]
+* Day 04
+    * Day 04 - Classes [js]
+    * Day 04 - Count Objects [js]
+    * Day 04 - Create a Rectangle Object [js]
+* Day 05
+    * Day 05 - Arrow Functions [js]
+    * Day 05 - Inheritance [js]
+    * Day 05 - Template Literals [js]
 ## Algorithms
 * Warmup
     * A very big Sum [C#]
