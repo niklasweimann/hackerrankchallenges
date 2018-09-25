@@ -60,6 +60,13 @@ Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn
     * Day 05 - Arrow Functions [js]
     * Day 05 - Inheritance [js]
     * Day 05 - Template Literals [js]
+* Day 06
+    * Day 06 - Bitwise Operators [js]
+    * Day 06 - JavaScript Dates [js]
+* Day 07
+    * Day 07 - Regular Expressions I [js]
+    * Day 07 - Regular Expressions II [js]
+    * Day 07 - Regular Expressions III [js]
 ## Algorithms
 * Warmup
     * A very big Sum [C#]
