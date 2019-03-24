@@ -1,10 +1,10 @@
-# Alle Hackerrank Challenges
-Bitte nutze dieses Repository nicht als Lösung, sondern als Inspiration oder um deine Lösungen zu vergleichen.
+# Hackerrank challenges
+> Please do not use this repository as a solution, but as inspiration or to compare your solutions.
 
-Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn dies einmal nicht der Fall war, habe ich die Punktzahl, die mit dem Code erreicht wurde in die erste Zeile der Datei geschrieben und zum Teil auch mehrere Varianten erstellt.
+I tried to get the maximum score for all challenges, if this was not the case, I wrote the score, which was reached with the code in the first line of the file. Sometimes there are several variants.
 
-# Hier eine Liste aller Challanges
-(Stand 20. Februar 2018)
+# List of all solved challenges
+(Last Update: 24. March 2019)
 ## 30 Days of Code 
 * Day 0 - Hello, World [Java]
 * Day 1 - Data Types [Java]
