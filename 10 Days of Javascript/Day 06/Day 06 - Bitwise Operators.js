@@ -22,11 +22,11 @@ function readLine() {
     return inputString[currentLine++];
 }
 function getMaxLessThanK(n, k) {
-    var Solution = [];
+    let largest = 0;
     for (let a = 1; a < k; a++) {
         for (let b = a + 1; b <= n; b++) {
-            if ((a < b) && ((a & b) < k)) {
-                Solution.push(a & b);
+            if (ab < k && ab > largest) {
+                largest = ab;
             }
         }
     }
