@@ -25,12 +25,12 @@ function getMaxLessThanK(n, k) {
     let largest = 0;
     for (let a = 1; a < k; a++) {
         for (let b = a + 1; b <= n; b++) {
-            if (ab < k && ab > largest) {
-                largest = ab;
+            if ((a & b) < k && (a & b) > largest) {
+                largest = (a & b);
             }
         }
     }
-    return Math.max.apply(undefined, Solution);
+    return largest;
 }
 function main() {
     const q = +(readLine());
