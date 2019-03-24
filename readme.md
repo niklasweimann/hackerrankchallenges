@@ -158,6 +158,9 @@ Ich habe versucht bei allen Challenges die Maximale Punktzahl zu erreichen, wenn
     * Say Hello, World with Python [py]
     * Python If-Else [py]
     * Arithmetic Operators [py]
+    * Division [py]
+    * Loops [py]
+    * Write a function [py]
 ## Regex
 * Applications
     * Saying Hi [Java]
